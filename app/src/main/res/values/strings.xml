@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Parques</string>
+    <string name="version_info">Versión 1.0</string>
+    <string name="autor_info">Giancarlo Vilchez Baldeon</string>
+
+    <string name="menu_inicio">Inicio</string>
+    <string name="menu_anadir_parque">Añadir parque</string>
+    <string name="menu_acerca_de">Acerca de</string>
+
+    <string name="acerca_de_titulo">Acerca de</string>
+    <string name="acerca_de_mensaje">Parques\nGiancarlo Vilchez</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="sin_parques">Todavía no hay parques</string>
+    <string name="anadir_desde_menu">Añade uno desde el menú ⋮ → Añadir parque</string>
+    <string name="img_parque_desc">Imagen de parque</string>
+
+    <string name="titulo_editar_parque">Añadir parque</string>
+    <string name="hint_nombre">Nombre del parque</string>
+    <string name="hint_descripcion">Descripción</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_sitio_web">Sitio web</string>
+    <string name="label_hora_apertura">Hora de apertura</string>
+    <string name="label_hora_cierre">Hora de cierre</string>
+    <string name="label_actividades">Actividades</string>
+    <string name="check_zona_deportiva">Zona deportiva</string>
+    <string name="check_parque_infantil">Parque infantil</string>
+    <string name="check_bar">Bar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="msg_guardado_simulado">Formulario revisado (sin guardar en BD)</string>
+</resources>
